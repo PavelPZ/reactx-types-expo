@@ -1,0 +1,24 @@
+{
+  "name": "@types/expo",
+  "version": "0.1.1",
+  "description": "Expo typescript definition",
+  "registry": "npm",
+  "main": "",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelPZ/reactx-types-expo.git"
+  },
+  "keywords": [
+    "react",
+    "expo",
+    "typescript"
+  ],
+  "author": "pzika@langmaster.cz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelPZ/reactx-types-expo/issues"
+  },
+  "homepage": "https://github.com/PavelPZ/reactx-types-expo#readme",
+  "readme": "https://github.com/PavelPZ/reactx-types-expo#readme"
+}
