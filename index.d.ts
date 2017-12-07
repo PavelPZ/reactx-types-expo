@@ -1247,7 +1247,7 @@ declare module 'expo' {
 
   /** Register Root Component. Useful when using function like react-redux connect for example. */
   // TODO: verify if it's a good idea or not to use generics.
-  function registerRootComponent<P, S>(component: React.Component<P, S>): React.Component<P, S>
+  function registerRootComponent<P, S>(component: React.Component<P, S> | React.SFC<P>): React.Component<P, S>
 
   namespace ScreenOrientation {
     namespace Orientation {

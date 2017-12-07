@@ -20,5 +20,9 @@
     "url": "https://github.com/PavelPZ/reactx-types-expo/issues"
   },
   "homepage": "https://github.com/PavelPZ/reactx-types-expo#readme",
-  "readme": "https://github.com/PavelPZ/reactx-types-expo#readme"
+  "readme": "https://github.com/PavelPZ/reactx-types-expo#readme",
+  "devDependencies": {
+    "@types/react": "^16.0.27",
+    "@types/react-native": "^0.50.8"
+  }
 }
