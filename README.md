@@ -1,5 +1,5 @@
 # reactx-types-expo
-janaagaard7's ExpoSDK typescript definition
+janaagaard7's [ExpoSDK](https://github.com/janaagaard75/expo-and-typescript) typescript definition
 
 ## Installation
 
